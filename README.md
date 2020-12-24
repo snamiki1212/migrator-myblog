@@ -1,6 +1,6 @@
 # Migration script for my blog (only one used)
 
-This migrator is tool for [GitHub - snamiki1212/myblog: Lunash 🌙](https://github.com/snamiki1212/myblog) that directory structure could be changed.
+This migrator is tool for [GitHub - snamiki1212/myblog: Lunash 🌙](https://github.com/snamiki1212/myblog). Changing directory structure.
 
 ```zsh
 ## before ----------------------
